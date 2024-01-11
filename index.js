@@ -1,5 +1,6 @@
 // HINTS:
 // 1. Import express and axios
+// change the json file to modulet then the script.js
 import express from "express";
 import axios from "axios";
 const API_URL = "https://secrets-api.appbrewery.com";
